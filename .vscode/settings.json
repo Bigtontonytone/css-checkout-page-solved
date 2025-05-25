@@ -1,5 +1,5 @@
 {
-  "liveServer.settings.port": 5551,
-  "liveServer.settings.CustomBrowser": "chrome",
-  "cSpell.words": ["devslopes", "Somebodyvich"]
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.root": ""
 }
